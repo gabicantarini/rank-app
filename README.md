@@ -23,18 +23,18 @@ This is a Student Grading application that automates the calculation of current 
 
 ## Technologies <a name="#id02"></a>
 
-<h3>I've used the follow technologies:</h3><br/>
+I've used the follow technologies:<br/>
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src=""></code>
+<code><img height="20" src="" alt=".Net IMG"></code>
 
 
 ## Related Projects <a name="#id03"></a>
 - [School Grade](#id)
-- [Final GPA Training](#id)
+- [Final GPA](#id)
 
 
 
