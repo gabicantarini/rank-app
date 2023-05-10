@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankApp", "RankApp\RankApp.csproj", "{CCCC17B1-0219-411B-A078-209429F246F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolGrade", "SchoolGrade\SchoolGrade.csproj", "{CC5CE2BC-CEA7-4D33-987F-EDED1CFF3272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CCCC17B1-0219-411B-A078-209429F246F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCCC17B1-0219-411B-A078-209429F246F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCCC17B1-0219-411B-A078-209429F246F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5CE2BC-CEA7-4D33-987F-EDED1CFF3272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5CE2BC-CEA7-4D33-987F-EDED1CFF3272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5CE2BC-CEA7-4D33-987F-EDED1CFF3272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5CE2BC-CEA7-4D33-987F-EDED1CFF3272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
