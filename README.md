@@ -1,5 +1,4 @@
-# rank-app
-# In progress...
+# This is a rank app in progress...
 
 # Index
 
@@ -33,7 +32,7 @@ I've used the follow technologies:<br/>
 
 
 ## Related Projects <a name="#id03"></a>
-- [School Grade](#id)
+- [School Grade](#id) 
 - [Final GPA](#id)
 
 
